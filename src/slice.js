@@ -65,3 +65,4 @@ export const { addContactRedux, removeContactRedux } = contactsSlice.actions;
 export const { addFilterRedux } = filterSlice.actions;
 export const filterReducer = filterSlice.reducer;
 export const contactsReducer = contactsSlice.reducer;
+export 
